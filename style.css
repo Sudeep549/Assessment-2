@@ -1,0 +1,125 @@
+.container{
+    border:8px solid red;
+    display:inline-block;
+    border-radius:35px;
+    background-color: black;
+    color:white;
+    height:130px;
+    width:390px;
+    padding-bottom: 10px;
+    text-align:center;
+    margin-right:29px;
+}
+
+.div{
+    border:8px solid red;
+    display:inline-block;
+    border-radius:40px;
+    background-color: black;
+    color:white;
+    height:80px;
+    width:540px;
+    text-align:center;
+    margin-right:25px;
+    margin-left: 10px;
+   
+    
+   
+}
+
+.border{
+    border:8px solid red;
+    display:inline-block;
+    border-radius:40px;
+    background-color: black;
+    color:white;
+    height:170px;
+    width:410px;
+    text-align:center;
+    margin-top:10px;
+    margin-left: 40px;
+}
+
+.index{
+    border:6px solid green;
+    height:100%;
+    width:100%;
+}
+
+.form{
+    border:7px dashed red;
+    margin-left:650px;
+    width:350px;
+    text-align: center;
+    background-color: white;
+    position:relative;
+    bottom: 450px;
+
+}
+
+.code{
+    color:red;
+    font-size:18px;
+}
+
+.menu{
+    border:8px solid red;
+    display:inline-block;
+    border-radius:40px;
+    background-color: black;
+    color:white;
+    height:80px;
+    width:500px;
+    text-align: center;
+    margin-left:300px;
+    margin-top:50px;
+    position:relative;
+    bottom:450px;
+    
+    
+}
+
+.circle{
+    border:7px solid grey;
+    border-radius:50%;
+    background-color: #34a89f;
+    width:410px;
+    height:350px;
+    text-align:center;
+    padding-top:50px;
+    margin-top:200px;
+    
+}
+
+.body{
+    border:5px solid lightgreen;
+}
+
+.line{
+    position:relative;
+    bottom:450px;
+}
+
+.table{
+    border:3px solid green;
+    border-radius:50px;
+    color:blue;
+    background-color:#19f7da;
+    width:380px;
+    height:260px;
+    text-align:center;
+    font-size: 17px;
+    display:inline-block;
+    position: relative;
+    margin:55px;
+}
+
+
+
+.earphone{
+    margin-top:-450px;
+
+}
+
+
+
